@@ -10,10 +10,14 @@ body {
 }
 
 .container {
-    margin-top: 120px;
-    margin-bottom: 100px;
+    margin-top: 150px;
+    margin-bottom: 60px;
     background-color: rgb(223, 245, 214);
     width: 52%;
+}
+
+footer {
+    padding-bottom: 10px;
 }
 
 
