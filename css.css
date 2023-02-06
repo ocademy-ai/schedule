@@ -33,3 +33,7 @@ footer {
         background-position: 0% 50%;
     }
 }
+
+table {
+    width: min-content;
+}
