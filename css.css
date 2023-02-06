@@ -13,6 +13,7 @@ body {
     margin-bottom: 60px;
     background-color: rgb(223, 245, 214);
     flex-wrap: wrap;
+    display: table;
 }
 
 footer {
