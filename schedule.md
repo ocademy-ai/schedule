@@ -12,7 +12,7 @@
 | Week 10 | Machine Learning Fundamentals | [Logistic regression](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/logistic-regression.html) | Completed |
 | Week 11 | Machine Learning Fundamentals | [Neural networks](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/neural-network.html) | Completed |
 | Week 12 | Machine Learning Fundamentals | Building a Machine Learning web app | 22 Apr SAT, 23 Apr SUN |
-| Week 13 | Machine Learning Advanced | Unsupervized learning | 29 Apr SAT, 30 Apr SUN |
+| Week 13 | Machine Learning Advanced | Unsupervised learning | 29 Apr SAT, 30 Apr SUN |
 | Week 14 | Machine Learning Advanced | Kernel method | 6 May SAT, 7 May SUN |
 | Week 15 | Machine Learning Advanced | Model selection | 13 May SAT, 14 May SUN |
 | Week 16 | Machine Learning Advanced | Ensemble learning | 20 May SAT, 21 May SUN |
