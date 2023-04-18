@@ -16,7 +16,7 @@
 | Week 14 | Machine Learning Advanced | Kernel method | 6 May SAT, 7 May SUN |
 | Week 15 | Machine Learning Advanced | Model selection | 13 May SAT, 14 May SUN |
 | Week 16 | Machine Learning Advanced | Ensemble learning | 20 May SAT, 21 May SUN |
-| Week 17 | Machine Learning Advanced | Generative models | 10 Jun SAT, 11 Jun SUN |
+| Week 17 | Machine Learning Advanced | Gradient boosting | 10 Jun SAT, 11 Jun SUN |
 | Week 18 | Deep Learning | Deep Learning overview | 17 Jun SAT, 18 Jun SUN |
 | Week 19 | Deep Learning | CNN | 24 Jun SAT, 25 Jun SUN |
 | Week 20 | Deep Learning | Image classification | 1 Jul SAT, 2 Jul SUN |
