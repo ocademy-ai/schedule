@@ -8,9 +8,9 @@
 | Week 6 | Data Science | [Data visualization](https://mybinder.org/v2/gh/open-academy/machine-learning/main?urlpath=tree/open-machine-learning-jupyter-book/slides/data-science/data-visualization.ipynb) | Completed |
 | Week 7 | Data Science | [Data Science lifecycle](https://open-academy.github.io/machine-learning/slides/data-science/data-science-lifecycle.html), [in the cloud](https://open-academy.github.io/machine-learning/slides/data-science/data-science-in-the-cloud.html), and [in real world](https://open-academy.github.io/machine-learning/slides/data-science/data-science-in-real-world.html) | Completed |
 | Week 8 | Machine Learning Fundamentals | [Machine Learning overview](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/ml-overview.html) | Completed |
-| Week 9 | Machine Learning Fundamentals | [Linear and polynomial regression](https://open-academy.github.io/machine-learning/ml-fundamentals/regression/linear-and-polynomial-regression.html) | Completed |
-| Week 10 | Machine Learning Fundamentals | Logistic regression | 8 Apr SAT, 9 Apr SUN |
-| Week 11 | Machine Learning Fundamentals | Neural networks | 15 Apr SAT, 16 Apr SUN |
+| Week 9 | Machine Learning Fundamentals | [Linear and polynomial regression](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/linear-regression.html) | Completed |
+| Week 10 | Machine Learning Fundamentals | [Logistic regression](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/logistic-regression.html) | Completed |
+| Week 11 | Machine Learning Fundamentals | [Neural networks](https://open-academy.github.io/machine-learning/slides/ml-fundamentals/neural-network.html) | Completed |
 | Week 12 | Machine Learning Fundamentals | Building a Machine Learning web app | 22 Apr SAT, 23 Apr SUN |
 | Week 13 | Machine Learning Advanced | Clustering | 29 Apr SAT, 30 Apr SUN |
 | Week 14 | Machine Learning Advanced | Kernel method | 6 May SAT, 7 May SUN |
@@ -24,7 +24,7 @@
 | Week 22 | Deep Learning | GAN | 15 Jul SAT, 16 Jul SUN |
 | Week 23 | Deep Learning | AutoEncoder | 22 Jul SAT, 23 Jul SUN |
 | Week 24 | Deep Learning | RNN and LSTM | 29 Jul SAT, 30 Jul SUN |
-| Week 25 | Deep Learning | NLP | 5 Aug SAT, 6 Aug SUN |
+| Week 25 | Deep Learning | Time series | 5 Aug SAT, 6 Aug SUN |
 | Week 26 | Deep Learning | DQN | 12 Aug SAT, 13 Aug SUN |
 | Week 27 | Machine Learning Operations | MLOps overview | 19 Aug SAT, 20 Aug SUN |
 | Week 28 | Machine Learning Operations | Problem framing | 26 Aug SAT, 27 Aug SUN |
